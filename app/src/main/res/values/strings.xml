@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Morning Firebase Database App</string>
+
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_idNumber">Enter Id Number</string>
+</resources>
